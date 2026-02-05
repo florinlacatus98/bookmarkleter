@@ -30,7 +30,7 @@
     "tinyify": "4.0.0"
   },
   "dependencies": {
-    "@babel/standalone": "7.21.2",
+    "@babel/standalone": "7.28.6",
     "babel-minify": "0.5.2"
   }
 }
